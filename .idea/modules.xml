@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RecyclerViewToDos.iml" filepath="$PROJECT_DIR$/.idea/modules/RecyclerViewToDos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RecyclerViewToDos.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RecyclerViewToDos.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RecyclerViewToDos.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RecyclerViewToDos.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RecyclerViewToDos.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RecyclerViewToDos.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RecyclerViewToDos.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RecyclerViewToDos.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
